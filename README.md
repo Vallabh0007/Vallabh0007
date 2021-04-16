@@ -6,6 +6,8 @@
 
 
 - ⚡ My Competitive Programming handles: 
-  [codechef](#https://www.codechef.com/users/vallabh007)
-  codechef
+  [codechef](https://www.codechef.com/users/vallabh007)⭐⭐⭐
+  [codeforces](https://codeforces.com/profile/vallabh0007)
+  [leetcode](https://leetcode.com/vallabh007/)
+  
   
